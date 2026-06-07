@@ -25,6 +25,16 @@ Developed during the **Bécalos Traxión Tech Challenge Hackathon** under the Pr
 ├── index_tercero.html     *Vehicle diagnostics dashboard*
 └── README.md              *Project documentation*
 
+├─ .git/
+├─ css/
+│  ├─ styles.css
+├─ js/
+│  ├─ main.js
+├─ images/
+│  ├─ logo.png
+├─ index.html
+└─ README.md
+
 # Technologies
 - **Languages:** HTML5, CSS3, JavaScript
 - **Libraries & Tools:** Chart.js, Git, GitHub, VSC
