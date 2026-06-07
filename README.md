@@ -1,23 +1,32 @@
 # FleetPredict | Predictive Fleet Maintenance Platform
 An AI-powered predictive fleet maintenance platform designed to help operators quickly assess vehicle health and prevent unexpected failures. The application combines vehicle telemetry inputs, digital twin visualization, risk assessment, and intelligent maintenance recommendations to support proactive fleet management decisions.
 
-# Technologies
-- **Languages:** HTML5, CSS3, JavaScript
-- **Tools:** Git, GitHub, Visual Studio Code
+# Overview project
+Developed during the **Bécalos Traxión Tech Challenge Hackathon** under the Predictive Fleet Maintenance track, this project simulates a real-world fleet maintenance workflow. The platform enables users to evaluate vehicle conditions through an intuitive interface that centralizes operational data, visual diagnostics, and maintenance insights.
 
 # Features
 - **AI-Powered Vehicle Assessment:** Analyzes vehicle condition data and generates actionable maintenance insights to support faster decision-making.
 - **Digital Twin Visualization:** Interactive vehicle representation with color-coded component indicators for intuitive monitoring of critical systems.
-- **Risk Monitoring Dashboard:** Displays an overall vehicle risk status using a traffic-light system (Low, Medium, High Risk) for rapid evaluation.
+- **Risk Monitoring Dashboard:** Displays an overall vehicle risk status using a traffic-light system (Low, Medium, High Risk) to quickly identify vehicles requiring attention.
 - **Maintenance Recommendations:** Provides intelligent maintenance suggestions based on detected risk factors and component conditions.
-- **User-Friendly Interface:** Simple and responsive data-entry form designed for efficient vehicle assessment and monitoring.
+- **Responsive User Interface:** Simple and responsive data-entry form designed for efficient vehicle assessment and monitoring.
+  
+# Project Structure
+├── index.html                 **Landing page**
+├── index_secundario.html      **Fleet monitoring dashboard**
+├── index_tercero.html         **Vehicle diagnostics dashboard**
+├── principal.css              **Landing page styles**
+├── secundario.css             **Fleet dashboard styles**
+├── tercero.css                **Vehicle diagnostics styles**
+└── assets/                    **Images and supporting resources**
+
+# Technologies
+- **Languages:** HTML5, CSS3, JavaScript
+- **Libraries & Tools:** Chart.js, Git, GitHub, VSC
 
 # Installation
 No package installation is required.
 
-# Project Context
-Developed during the **Bécalos Traxión Tech Challenge Hackathon** under the Predictive Fleet Maintenance track. The solution was created to improve fleet availability by enabling early detection of potential maintenance issues and supporting preventive maintenance strategies.
-  
 # Demo
 Live Demo: https://mpayro03.github.io/Predictive-Fleet-Maintenance-Platform-/
 
