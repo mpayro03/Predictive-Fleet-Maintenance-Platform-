@@ -12,6 +12,9 @@ An AI-powered predictive fleet maintenance platform designed to help operators q
 - **Maintenance Recommendations:** Provides intelligent maintenance suggestions based on detected risk factors and component conditions.
 - **User-Friendly Interface:** Simple and responsive data-entry form designed for efficient vehicle assessment and monitoring.
 
+# Installation
+No package installation is required.
+
 # Project Context
 Developed during the **Bécalos Traxión Tech Challenge Hackathon** under the Predictive Fleet Maintenance track. The solution was created to improve fleet availability by enabling early detection of potential maintenance issues and supporting preventive maintenance strategies.
   
