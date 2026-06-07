@@ -12,6 +12,7 @@ Developed during the **Bécalos Traxión Tech Challenge Hackathon** under the Pr
 - **Responsive User Interface:** Simple and responsive data-entry form designed for efficient vehicle assessment and monitoring.
   
 # Project Structure
+```text
 ├── css/
 │   ├── principal.css          # Landing page styles
 │   ├── secundario.css         # Fleet monitoring dashboard styles
@@ -24,6 +25,7 @@ Developed during the **Bécalos Traxión Tech Challenge Hackathon** under the Pr
 ├── index_secundario.html      # Fleet monitoring dashboard
 ├── index_tercero.html         # Vehicle diagnostics dashboard
 └── README.md                  # Project documentation
+```
 
 # Technologies
 - **Languages:** HTML5, CSS3, JavaScript
