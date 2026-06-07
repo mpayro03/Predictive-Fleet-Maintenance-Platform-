@@ -13,11 +13,17 @@ Developed during the **Bécalos Traxión Tech Challenge Hackathon** under the Pr
   
 # Project Structure
 ├── index.html                 *Landing page*
+
 ├── index_secundario.html      *Fleet monitoring dashboard*
+
 ├── index_tercero.html         *Vehicle diagnostics dashboard*
+
 ├── principal.css              *Landing page styles*
+
 ├── secundario.css             *Fleet dashboard styles*
+
 ├── tercero.css                *Vehicle diagnostics styles*
+
 └── assets/                    *Images and supporting resources*
 
 # Technologies
